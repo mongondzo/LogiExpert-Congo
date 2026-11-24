@@ -1,0 +1,7 @@
+Déposez ici votre vidéo de fond de la page d'accueil :
+
+  hero.mp4   (obligatoire — H.264, 1920x1080, 10 à 20 secondes, sans son, < 5 Mo)
+  hero.webm  (optionnel — plus léger sur Chrome/Firefox/Android)
+
+Tant que la vidéo n'est pas ajoutée, le site affiche l'image assets/images/hero-warehouse.jpg.
+Voir le README à la racine du projet pour les commandes de compression.
